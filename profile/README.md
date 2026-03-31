@@ -26,13 +26,13 @@ maybe: something genuinely useful. don't get your hopes up.
   <tr>
     <td align="center">
       <img src="https://github.com/FaizeenHoque.png" width="100px" alt=""/><br />
-      <b>John Doe</b><br />
+      <b>Faizeen Hoque</b><br />
       <i>Lead Developer</i><br />
       <a href="https://github.com/FaizeenHoque">GitHub</a>
     </td>
     <td align="center">
       <img src="https://github.com/TheBigZZZ.png" width="100px" alt=""/><br />
-      <b>Jane Smith</b><br />
+      <b>Zunayed Ibrahim</b><br />
       <i>UI/UX Designer</i><br />
       <a href="https://github.com/TheBigZZZ">GitHub</a>
     </td>
